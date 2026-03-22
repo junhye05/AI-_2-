@@ -155,7 +155,7 @@ print(f"\n최종 결과: 1부터 10까지의 합 = {total}")
 
 ### ❓ 질문
 > 이 이미지를 설명해줘
-
+![AI Image](https://news.samsungdisplay.com/wp-content/uploads/2022/10/1.jpg)
 ---
 
 ### 🤖 ChatGPT
